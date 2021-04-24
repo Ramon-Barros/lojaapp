@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566707609342",
+    "firebase_url": "https://loja-virt.firebaseio.com",
+    "project_id": "loja-virt",
+    "storage_bucket": "loja-virt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566707609342:android:ca21a5c08021848e578faf",
+        "android_client_info": {
+          "package_name": "br.com.barros.lojavirtual.loja_virt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566707609342-p0cucslg2oghfi03c663ktukufcgeqd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK9TYIm9apEjUcKLeJ7ewf9FgTGhddGpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566707609342-p0cucslg2oghfi03c663ktukufcgeqd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
